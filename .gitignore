@@ -1,0 +1,5 @@
+_dump/
+idxtools/
+.python-version
+mnist_data/
+__pycache__/
